@@ -1,0 +1,14 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "backbone": "^1.4.1",
+    "bootstrap": "^5.2.3",
+    "chart.js": "^2.9.4",
+    "jquery": "^3.6.4",
+    "underscore": "^1.13.6"
+  }
+}
